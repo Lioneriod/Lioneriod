@@ -9,7 +9,7 @@
       <h1 style="margin: 0 0 12px 0; font-size: 2em; color:#5ecec4ff;">Hey, Lio here!</h1>
       <p style="margin: 8px 0; font-size: 1.1em;">💫 Lio • ADHD • LGBTQIA+ • 🇧🇷</p>
       <p style="margin: 6px 0; font-size: 1.05em;">🤖 IoT • Embedded systems • Automation</p>
-      <p style="margin: 6px 0; font-size: 1.05em;">🧰 Python with Django • Flask • Jinja and C++</p>
+      <p style="margin: 6px 0; font-size: 1.05em;">🧰 Python with Django, Flask and Jinja • C++</p>
       <p style="margin: 6px 0; font-size: 1.05em;">🧡 Cooking • Gardening • Games • Linux ricing</p>
     </td>
   </tr>
