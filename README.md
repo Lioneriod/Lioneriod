@@ -14,21 +14,21 @@ Most of my web engineering expertise comes from the rigorous **The Odin Project*
 ### 🧰 Tech Stack & Tools
 
 <!-- Frontend -->
-![JavaScript](https://img.shields.io/badge/javascript-%23008080.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/react-%23008080.svg?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23008080.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%23008080.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript&logoColor=%23008080&labelColor=%230d1117)
+![React](https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react&logoColor=%23008080&labelColor=%230d1117)
+![HTML5](https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5&logoColor=%23008080&labelColor=%230d1117)
+![CSS3](https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=%23008080&labelColor=%230d1117)
 
 <!-- Backend & DB -->
-![NodeJS](https://img.shields.io/badge/node.js-%23008080.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23008080.svg?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23008080.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%230d1117.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23008080&labelColor=%230d1117)
+![Express.js](https://img.shields.io/badge/express.js-%230d1117.svg?style=for-the-badge&logo=express&logoColor=%23008080&labelColor=%230d1117)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%230d1117.svg?style=for-the-badge&logo=postgresql&logoColor=%23008080&labelColor=%230d1117)
 
 <!-- DevOps & Workflow -->
-![Git](https://img.shields.io/badge/git-%23008080.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23008080.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Jest](https://img.shields.io/badge/jest-%23008080.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%23008080.svg?style=for-the-badge&logo=webpack&logoColor=white)
+![Git](https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git&logoColor=%23008080&labelColor=%230d1117)
+![Linux](https://img.shields.io/badge/Linux-%230d1117.svg?style=for-the-badge&logo=linux&logoColor=%23008080&labelColor=%230d1117)
+![Jest](https://img.shields.io/badge/jest-%230d1117.svg?style=for-the-badge&logo=jest&logoColor=%23008080&labelColor=%230d1117)
+![Webpack](https://img.shields.io/badge/webpack-%230d1117.svg?style=for-the-badge&logo=webpack&logoColor=%23008080&labelColor=%230d1117)
 
 ### 🧡 Outside of Coding
 *   🍳 **Cooking:** - Usually chinese, to avoid lactose
@@ -41,5 +41,5 @@ Most of my web engineering expertise comes from the rigorous **The Odin Project*
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lioneriod&show_icons=true&theme=teal&hide_border=true" alt="Lio's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lioneriod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=008080&icon_color=008080&text_color=c9d1d9" alt="Lio's GitHub Stats" />
 </p>
