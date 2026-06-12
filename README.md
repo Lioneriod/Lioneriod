@@ -41,5 +41,5 @@ Most of my web engineering expertise comes from the rigorous **The Odin Project*
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lioneriod&show_icons=true&theme=teal&hide_border=true" alt="Lio's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lioneriod&show_icons=true&theme=teal&hide_border=true" alt="Lio's GitHub Stats" />
 </p>
